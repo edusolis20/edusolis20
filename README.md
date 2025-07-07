@@ -6,7 +6,6 @@ Soy un ingeniero apasionado por la automatización, el análisis de datos y la c
 
 ## 🚀 Sobre mí
 
-- 🎓 Ingeniero aeroespacial con enfoque en calidad, automatización y análisis de datos.
 - 🧠 Apasionado por aprender constantemente: desde scraping web hasta Machine Learning.
 - 💼 He desarrollado herramientas en Python para automatizar pruebas (Selenium), extracción de datos, procesamiento masivo y análisis predictivo.
 - 📊 En los últimos años he aplicado conocimientos de trading algorítmico y análisis técnico basados en estructuras de mercado.
@@ -40,6 +39,6 @@ Soy un ingeniero apasionado por la automatización, el análisis de datos y la c
 Si te interesa colaborar, tienes alguna duda o idea que quieras desarrollar, puedes contactarme en:
 
 - 📧 edusolis100@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-solis)
+- 💼 [LinkedIn](www.linkedin.com/in/eduardo-daniel-solis-cervantes-355636192)
 
 ---
